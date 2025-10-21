@@ -14,7 +14,7 @@ Research Blog: https://www.immersivepalaeoart.com/blog
 - Explore the capabilities of VR in displaying high fidelity rigged meshes and realistic environments.
 
 ## Technologies Used
-- Unreal Engine 5.6
+- Unreal Engine 5.5
 - Meta Quest 3
 - Blueprints
 - Version Control: Git, Github
