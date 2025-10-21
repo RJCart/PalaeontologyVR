@@ -1,7 +1,7 @@
 # PalaeontologyVR
 
 ## Overview
-This project is a Virtual Reality experience developed in Unreal Engine 5.6 that explores science communication on the topic of palaeontology through immersive, interactive environments. It is being created as part of my Master’s Thesis, aiming to combine scientific accuracy with immersive VR to enhance public interest and understanding in palaeontology.
+This project is a Virtual Reality experience developed in Unreal Engine 5.5 that explores science communication on the topic of palaeontology through immersive, interactive environments. It is being created as part of my Master’s Thesis, aiming to combine scientific accuracy with immersive VR to enhance public interest and understanding in palaeontology.
 
 Design Document: https://app.gitbook.com/invite/IFgcZsUOWEPaxdPHtVvf/tIHscQihzCkrjuHinwcO
 
@@ -18,3 +18,13 @@ Research Blog: https://www.immersivepalaeoart.com/blog
 - Meta Quest 3
 - Blueprints
 - Version Control: Git, Github
+
+## Project Setup for Development with Meta Quest VR Headset
+- Clone the PalaeontologyVR repository.
+- Open project with Unreal Engine 5.5
+- Install Meta Quest Link https://www.meta.com/en-gb/help/quest/1517439565442928/?srsltid=AfmBOoqr7W-BAmwaQoTj3TuE0XFoO5eiimTXuNq2GQDj4dBR7mvI_-Pj
+- Install Meta Quest Developer Hub version 78.0 https://developers.meta.com/horizon/downloads/package/unreal-engine-5-integration/
+- Enable Meta XR plugin inside Unreal Engine, then restart Unreal Engine.
+- Connect your Meta Quest headset to your PC via usb cable and link it to your PC inside the headset.
+- If Unreal Engine is crashing with the Meta XR plugin and you have Steam VR installed, go to settings in SteamVR, OPenXR settings, Make sure both facial tracking and MR are turned off.
+
