@@ -79,3 +79,17 @@ Content/Art/
 # Audio Files
 Content/Audio/
 
+# Manny and Quinn Textures
+Content/Characters/MannequinsXR/Textures/
+Content/Characters/MannequinsXR/Materials/
+
+# VRtemplate Materials
+Content/VRTemplate/Materials/
+Content/VRTemplate/VFX/
+Content/VRTemplate/Textures/
+Content/VRTemplate/Audio/
+
+Prototyping Junk
+Content/LevelPrototyping/Textures/
+Content/LevelPrototyping/Materials/
+Content/LevelPrototyping/Meshes
