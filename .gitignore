@@ -74,10 +74,10 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Large textures and meshes
-Content/Art/
+Content/_Art/Textures
 
 # Audio Files
-Content/Audio/
+Content/_Audio/
 
 # Manny and Quinn Textures
 Content/Characters/MannequinsXR/Textures/
