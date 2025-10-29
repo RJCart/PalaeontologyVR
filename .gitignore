@@ -74,7 +74,9 @@ Plugins/**/Intermediate/*
 DerivedDataCache/*
 
 # Large textures and meshes
+Content/_Art/AssetPacks
 Content/_Art/Textures
+
 
 # Audio Files
 Content/_Audio/
