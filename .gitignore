@@ -77,6 +77,8 @@ DerivedDataCache/*
 Content/_Art/AssetPacks
 Content/_Art/Textures
 
+# Animations
+Content/Art/Animations
 
 # Audio Files
 Content/_Audio/
