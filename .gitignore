@@ -93,7 +93,13 @@ Content/VRTemplate/VFX/
 Content/VRTemplate/Textures/
 Content/VRTemplate/Audio/
 
-Prototyping Junk
+# Prototyping Junk
 Content/LevelPrototyping/Textures/
 Content/LevelPrototyping/Materials/
 Content/LevelPrototyping/Meshes
+
+# In-Game Screenshots
+Photos/
+
+# Savegames
+SaveGames/
