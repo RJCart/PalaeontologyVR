@@ -73,9 +73,11 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Large textures and meshes
-Content/_Art/AssetPacks
+# Large textures
 Content/_Art/Textures
+
+# Asset Packs 
+Content/_Art/AssetPacks
 
 # Animations
 Content/Art/Animations
