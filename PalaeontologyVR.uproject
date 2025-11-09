@@ -41,6 +41,10 @@
 				"Win64",
 				"Android"
 			]
+		},
+		{
+			"Name": "FunctionalTestingEditor",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
