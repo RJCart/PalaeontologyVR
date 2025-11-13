@@ -3,7 +3,7 @@
 ## Overview
 This project is a Virtual Reality experience developed in Unreal Engine 5.5 that explores science communication on the topic of palaeontology through immersive, interactive environments. It is being created as part of my Master’s Thesis, aiming to combine scientific accuracy with immersive VR to enhance public interest and understanding in palaeontology.
 
-Design Document: https://app.gitbook.com/invite/IFgcZsUOWEPaxdPHtVvf/tIHscQihzCkrjuHinwcO
+Design Document: https://ruths-organization-7.gitbook.io/immersivepalaeoart
 
 Research Blog: https://www.immersivepalaeoart.com/blog
 
