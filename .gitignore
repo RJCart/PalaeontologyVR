@@ -101,9 +101,16 @@ Content/VRTemplate/Audio/
 Content/LevelPrototyping/Textures/
 Content/LevelPrototyping/Materials/
 Content/LevelPrototyping/Meshes
+Content/AfricanAnimalsPack/Textures/
 
 # In-Game Screenshots
 Photos/
 
 # Savegames
 SaveGames/
+
+# Animal Packs
+Content/AfricanAnimalsPack/
+
+# Metahumans
+Content/MetaHumans/
